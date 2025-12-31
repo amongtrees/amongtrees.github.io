@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "amongtrees / Cabin"
+title                    : "amongtrees / homepage"
 title_separator          : "-"
 name                     : &name "Jialong Li"
 description              : &description "Jialong Li's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://amongtrees.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "amongtrees/amongtrees.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Jialong Li"
   pronouns         : # example: "she/her"  
-  bio              : "Bachelor graduated from Harbin Institute of Technology. Now pursuing Master's Degree at KyotoU"
-  location         : "Japan"
+  bio              : "To practice, to recognize"
+  location         : "Kyoto, Japan"
   employer         : "Kyoto University"
   uri              : # URL
   email            : "dralee7424@gmail.com" 
@@ -255,15 +255,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # # _teaching
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _publications
   - scope:
       path: ""
@@ -273,23 +273,23 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 
 # Sass/SCSS
