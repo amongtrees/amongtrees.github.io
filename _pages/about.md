@@ -15,7 +15,7 @@ I'm a preparatory Master's student of [Kyoto University Computer Vision Laborato
 
 ## :mortar_board: Education
 
-* M.S. in Comouter Vision, Kyoto University, 2026 - 2028 (expected)
+* M.S. in Computer Vision, Kyoto University, 2026 - 2028 (expected)
 * B.S. in Information Security, [Harbin Institute of Technology](https://en.hit.edu.cn/), 2021 - 2025
 
 ## :bookmark_tabs: My Research Focuses on:
@@ -24,7 +24,7 @@ I'm a preparatory Master's student of [Kyoto University Computer Vision Laborato
 
 I am looking for **_internship_** opportunity about this direction.
 
-And my personal interest focuses on Data Science and Algorithm Optimization for HPC.
+And my personal interest focuses on Data Science and HPC.
 
 :mailbox_with_mail: Contact me: dralee7424 (at) gmail (dot) com
 
