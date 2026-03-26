@@ -24,7 +24,7 @@ I'm a preparatory Master's student of [Kyoto University Computer Vision Laborato
 
 I am looking for **_internship_** opportunity about this direction.
 
-And my personal interest focuses on Data Science and HPC.
+And my personal interest focuses on VLA, VLN and World Model.
 
 :mailbox_with_mail: Contact me: dralee7424 (at) gmail (dot) com
 
